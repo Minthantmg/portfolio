@@ -10,7 +10,8 @@ const MainBody = () => {
                 <Image src={dummy} alt="" width="130" height="130" className="rounded-full"/>
             </div>
             <div className="py-4 text-xs flex justify-center items-center">
-                Hi,I'm Min Thant Mg<span><Image src={wave} alt="" width="18" height="18"/></span>
+                Hi,I'm Min Thant Mg<span><img
+                src={wave} alt="" width="18" height="18"/></span>
             </div>
             <div className="text-4xl text-center sm:text-7xl sm:mt-6" style={{
                 background: 'linear-gradient(to right, #ff00ff, #00ff00)',
