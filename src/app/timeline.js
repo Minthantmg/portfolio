@@ -18,7 +18,7 @@ const Timeline = () => {
                             University Student
                         </div>
                         <div className="font-base font-mono">
-                            University of Computer Studies,Yangon
+                            University of Computer Studies, Yangon
                         </div>
                         <div className="text-sm font-mono mt-4 text-left pr-4">
                             My university student life was a transformative experience. I immersed myself in challenging
