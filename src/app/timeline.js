@@ -62,7 +62,7 @@ const Timeline = () => {
                             I am a Programmer specializing in web development at a Japanese company. My role involves
                             crafting robust and responsive web solutions, collaborating with cross-functional teams, and
                             ensuring optimal website performance. I contribute to creating dynamic and user-centric web
-                            experiences that align with the company's goals and meet client expectations.
+                            experiences that align with the company goals and meet client expectations.
                         </div>
                     </div>
                 </div>
